@@ -6,7 +6,7 @@ namespace CS_snake
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello There!");
         }
     }
 }
