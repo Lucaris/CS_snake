@@ -7,6 +7,7 @@ namespace CS_snake
         static void Main(string[] args)
         {
             Console.WriteLine("Hello There!");
+            Console.ReadLine();
         }
     }
 }
